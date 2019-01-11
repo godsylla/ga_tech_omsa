@@ -1,4 +1,4 @@
 .ipython/*
 .jupyter/*
 .local/*
-
+.cache/*
