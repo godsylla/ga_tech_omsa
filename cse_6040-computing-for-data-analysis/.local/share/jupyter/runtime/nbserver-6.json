@@ -6,6 +6,10 @@
   "pid": 6,
   "port": 8888,
   "secure": false,
+<<<<<<< HEAD:cse_6040-computing-for-data-analysis/.local/share/jupyter/runtime/nbserver-6.json
   "token": "38ff741e714e71b5d962ffdb78439b7442610ccbfbc4b5f9",
+=======
+  "token": "78d337fd75fffa9998a23459d5ba6627084a4faf6dfbade1",
+>>>>>>> 85c3e11c0a62d4cbdd2d567610f49e6704a25538:cse_6040-computing-for-data-analysis/.local/share/jupyter/runtime/nbserver-6.json
   "url": "http://localhost:8888/"
 }
