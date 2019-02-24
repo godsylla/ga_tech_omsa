@@ -1,4 +1,7 @@
-.ipython/*
-.jupyter/*
-.local/*
-.cache/*
+.ipython/
+.jupyter/
+.local/
+.cache/
+
+NYC-311-2M.db
+.npm/
