@@ -9,11 +9,12 @@ import os
 import hashlib
 import io
 
-def download_one(filename, local_base, url_base, checksum=None):
+def download_one(filename, local_base, url_base, checksum=None, mkdir=True):
     local_file = "{}{}".format(local_base, filename)
     if not os.path.exists(local_file):
         url = "{}{}".format(url_base, filename)
         print("Downloading: {} ...".format(url))
+        if mkdir: os.makedirs(local_base, exist_ok=True)
         r = requests.get(url)
         with open(local_file, 'wb') as f:
             f.write(r.content)
@@ -31,18 +32,18 @@ def download_one(filename, local_base, url_base, checksum=None):
 def on_vocareum():
     return os.path.exists('.voc')
 
+URL_BASE = "https://cse6040.gatech.edu/datasets/"
 if on_vocareum():
-    URL_BASE = "https://cse6040.gatech.edu/datasets/"
     LOCAL_BASE = "../resource/asnlib/publicdata/"
 else:
-    URL_BASE = "https://github.com/cse6040/labs-fa17/raw/master/datasets/"
     LOCAL_BASE = ""
 
-def download_all(datasets, local_base=LOCAL_BASE, local_suffix="", url_base=URL_BASE, url_suffix=""):
+def download_all(datasets, local_base=LOCAL_BASE, local_suffix=None, url_base=URL_BASE, url_suffix=None, suffix=""):
+    local_suffix = suffix if local_suffix is None else local_suffix
+    url_suffix = suffix if url_suffix is None else url_suffix
     local_paths = {}
     local_dir = "{}{}".format(local_base, local_suffix)
     url_dir = "{}{}".format(url_base, url_suffix)
-    os.makedirs(local_dir, exist_ok=True)
     for filename, checksum in datasets.items():
         download_one(filename, local_base=local_dir, url_base=url_dir, checksum=checksum)
         local_paths[filename] = "{}{}".format(local_dir, filename)
