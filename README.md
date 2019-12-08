@@ -8,10 +8,12 @@
 
 ### Advanced Core Requirements (6 units)
 > MGT 6203 - [Data Analytics in Business]()
+
 > CSE 6242 - [Data and Visual Analytics]()
 
 ### Statistics Electives (6 units required)
 > ISYE 8803- [High Dimensional Data Analysis](https://github.com/godsylla/isye8803-high-dimensional-data-analysis)
+
 > ISYE 6420- [Bayesian Statistics](https://github.com/godsylla/isye6420-bayesian-statistics)
 
 ### Operations Research Electives (3 units required)
