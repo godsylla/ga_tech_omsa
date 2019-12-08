@@ -3,9 +3,17 @@
 
 # Online Masters in Analytics - Computational Data
 
+### Core Requirements (3 units required) 
+> CSE 6040 - [Computing for Data Analysis](https://github.com/godsylla/cse6040-computing-for-data-analysis)
 
-CSE 6040 - [Computing for Data Analysis](https://github.com/godsylla/cse6040-computing-for-data-analysis)
+### Advanced Core Requirements (6 units)
+> MGT 6203 - [Data Analytics in Business]()
+> CSE 6242 - [Data and Visual Analytics]()
 
-ISYE 8803- [High Dimensional Data Analysis](https://github.com/godsylla/isye8803-high-dimensional-data-analysis)
+### Statistics Electives (6 units required)
+> ISYE 8803- [High Dimensional Data Analysis](https://github.com/godsylla/isye8803-high-dimensional-data-analysis)
+> ISYE 6420- [Bayesian Statistics](https://github.com/godsylla/isye6420-bayesian-statistics)
 
-ISYE 6420- [Bayesian Statistics](https://github.com/godsylla/isye6420-bayesian-statistics)
+### Operations Research Electives (3 units required)
+### Track Electives (6 units required)
+### Additional Electives (6 units required)
