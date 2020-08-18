@@ -15,12 +15,11 @@
 * ISYE 6420- [Bayesian Statistics](https://github.com/godsylla/isye6420-bayesian-statistics)
 
 ### Operations Research Electives (3 units required)
-
+* ISYE 6669 - [Deterministic Optimization](https://github.com/godsylla/isye6669-deterministic-optimization)
 
 ### Track Electives (6 units required)
 * CS 7646 - [Machine Learning for Trading](https://github.com/godsylla/cs7646-machine-learning-for-trading)
 
-
 ### Additional Electives (6 units required)
 * ISYE 6740- [Computational Data Analytics](https://github.com/godsylla/isye6740-computational-data-analytics)
-* ISYE 6669 - [Deterministic Optimization](https://github.com/godsylla/isye6669-deterministic-optimization)
+
