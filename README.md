@@ -31,5 +31,5 @@ Opted out of 2 core requirements (to allow for more electives within the Computa
 * ISyE 6740- [Computational Data Analytics](https://github.com/godsylla/isye6740-computational-data-analytics)
 
 ### Practicum (6 units - In Progress)
-
+* CSE 6748- [Practicum Project](https://github.com/rage-against-the-machine-learning/medxoom-ml)
 
