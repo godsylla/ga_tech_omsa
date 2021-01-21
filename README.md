@@ -3,7 +3,7 @@
 
 # Online Masters in Analytics - Computational Data
 36 unit requirement<br>
-24/36 units completed as of Fall 2020<br>
+30/36 units completed after Spring 2021<br>
 Opted out of 2 core requirements (to allow for more electives within the Computational Track):
 * ISyE 6501 
 * MGT 8803 
@@ -29,4 +29,7 @@ Opted out of 2 core requirements (to allow for more electives within the Computa
 
 ### Additional Electives (6 units required)
 * ISyE 6740- [Computational Data Analytics](https://github.com/godsylla/isye6740-computational-data-analytics)
+
+### Practicum (6 units - In Progress)
+
 
