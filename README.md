@@ -3,7 +3,7 @@
 
 # Online Masters in Analytics - Computational Track
 36 unit requirement<br>
-30/36 units completed after Spring 2021<br>
+30/36 units after Spring 2021<br>
 Opted out of 2 core requirements (to allow for more electives within the Computational Track):
 * ISyE 6501 
 * MGT 8803 
@@ -26,12 +26,12 @@ Opted out of 2 core requirements (to allow for more electives within the Computa
 
 ### Track Electives (6 units required)
 * CS 7646 - [Machine Learning for Trading](https://github.com/godsylla/cs7646-machine-learning-for-trading)
-* CS 7643 - Deep Learning (Summer 2021)
+* CS 7643 - Deep Learning (In Progress)
 
 ### Additional Electives (6 units required)
 * ISyE 6740- [Computational Data Analytics](https://github.com/godsylla/isye6740-computational-data-analytics)
 * ISyE 6402 - Time Series Analysis (Fall 2021)
 
-### Practicum (6 units - In Progress)
+### Practicum (6 units - Complete)
 * CSE 6748- [Practicum Project](https://github.com/rage-against-the-machine-learning/medxoom-ml)
 
