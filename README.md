@@ -3,7 +3,7 @@
 
 # Online Masters in Analytics - Computational Track
 36 unit requirement<br>
-30/36 units after Spring 2021<br>
+33/36 units after Summer 2021<br>
 Opted out of 2 core requirements (to allow for more electives within the Computational Track):
 * ISyE 6501 
 * MGT 8803 
