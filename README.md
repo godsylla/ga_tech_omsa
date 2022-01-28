@@ -3,7 +3,7 @@
 
 # Online Masters in Analytics - Computational Track
 36 unit requirement<br>
-33/36 units<br>
+36/36 units<br>
 Opted out of 2 core requirements (to allow for more electives within the Computational Track):
 * ISyE 6501 
 * MGT 8803 
@@ -30,7 +30,7 @@ Opted out of 2 core requirements (to allow for more electives within the Computa
 
 ### Additional Electives (6 units required)
 * ISyE 6740- [Computational Data Analytics](https://github.com/godsylla/isye6740-computational-data-analytics)
-* ISyE 6644 - [Simulation-In Progress](https://github.com/godsylla/isye6644-simulation)
+* ISyE 6644 - [Simulation](https://github.com/godsylla/isye6644-simulation)
 
 ### Practicum (6 units - Complete)
 * CSE 6748- [Practicum Project](https://github.com/rage-against-the-machine-learning/medxoom-ml)
