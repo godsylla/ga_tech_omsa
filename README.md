@@ -24,11 +24,11 @@ Opted out of 2 core requirements (to allow for more electives within the Computa
 ### Operations Research Electives (3 units - Complete)
 * ISyE 6669 - [Deterministic Optimization](https://github.com/godsylla/isye6669-deterministic-optimization)
 
-### Track Electives (6 units required)
+### Track Electives (6 units - Complete)
 * CS 7646 - [Machine Learning for Trading](https://github.com/godsylla/cs7646-machine-learning-for-trading)
 * CS 7643 - [Deep Learning](https://github.com/godsylla/cs7643-deep-learning) 
 
-### Additional Electives (6 units required)
+### Additional Electives (6 units - Complete)
 * ISyE 6740- [Computational Data Analytics](https://github.com/godsylla/isye6740-computational-data-analytics)
 * ISyE 6644 - [Simulation](https://github.com/godsylla/isye6644-simulation)
 
